@@ -3,3 +3,5 @@ Color of the building is green
 Each building hass 3 floors
 //Playground
 There are 2 playgrounds in my school
+//Swimming Pool
+My school has 2 swimming pool
