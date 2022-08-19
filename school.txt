@@ -7,3 +7,5 @@ There are 2 playgrounds in my school
 My school has two basketball court
 //Badminton
 There are no badminton courts in our school
+//Auditorium hall
+There are 2 auditorim halls in our school
