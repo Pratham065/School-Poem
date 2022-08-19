@@ -5,3 +5,4 @@ Each building hass 3 floors
 There are 2 playgrounds in my school
 //Baasketball Court
 My school has two basketball court
+//Badminton
