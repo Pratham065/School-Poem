@@ -1,1 +1,2 @@
 My school has three buildings
+Color of the building is green
