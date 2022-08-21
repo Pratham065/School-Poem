@@ -3,8 +3,9 @@ Color of the building is green
 Each building hass 3 floors
 //Playground
 There are 2 playgrounds in my school
-//Baasketball Court
-My school has two basketball court
+//Swimming Pool
+My school has 2 swimming pool
+
 //Badminton
 There are no badminton courts in our school
 Construction of badminton court is going on in our school
