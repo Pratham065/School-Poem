@@ -8,5 +8,7 @@ My school has two basketball court
 //Badminton
 There are no badminton courts in our school
 Construction of badminton court is going on in our school
+//Auditorium hall
+There are 2 auditorim halls in our school
 //Climate change
 Our school building should environmental friendly.
